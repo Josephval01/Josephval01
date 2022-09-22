@@ -5,7 +5,7 @@
 - <b>Tryhackme (THM)</b>
   - [Full Profile](https://tryhackme.com/p/Josephval)
   - [Wireshark](https://tryhackme.com/Josephval/badges/wireshark)
-  - [Cyber Defence Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ATRCHH1C5F.png)
+ 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -19,6 +19,11 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>👨‍💻 Certifications:</h2>
+
+ - [Cyber Defence Learning Path (THM)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ATRCHH1C5F.png)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
