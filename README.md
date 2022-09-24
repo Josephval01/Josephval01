@@ -23,6 +23,7 @@
 <h2>👨‍💻 Certifications:</h2>
 
  - [Cyber Defence Learning Path (THM)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ATRCHH1C5F.png)
+ - [ISC2 Membership badge](https://www.credly.com/badges/0580cd92-18d7-4849-9bb3-3202cd7485fd)
 
 
 <h2>📺 Popular YouTube Videos</h2>
